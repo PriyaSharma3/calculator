@@ -1,3 +1,4 @@
 # calculator
 This is a virtual calculator which is made using frontend (HTML, CSS, JS)
-![virtual-reality-cute-calculator-character-cartoon-virtual-reality-cute-calculator-character-cartoon-vector-illustration-103106710](https://user-images.githubusercontent.com/57484845/144984267-29c572be-e620-4e81-9a18-8f4aa013ce65.jpg)
+![Screenshot (45)](https://user-images.githubusercontent.com/57484845/144985284-a694f605-83f9-451b-939c-518721317465.png)
+
